@@ -1,2 +1,3 @@
 This is sample text
-New line"This data is modified by command promp" 
+New line
+"This data is modified by command promp" 
