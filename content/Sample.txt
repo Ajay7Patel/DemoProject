@@ -2,3 +2,6 @@ This is sample text
 New line
 "This data is modified by command prompt" 
 Branch merge test
+
+
+"branch demo to master"
